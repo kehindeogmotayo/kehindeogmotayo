@@ -61,7 +61,6 @@ Full security projects
     important-concepts.md
 ```
 
-You can add more folders and files as you grow.
 
 ---
 
