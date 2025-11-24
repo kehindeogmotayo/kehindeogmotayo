@@ -1,16 +1,87 @@
-## Hi there 👋
+# 🚀 My Cybersecurity Journey (Beginner → Advanced)
 
-<!--
-**kehindeogmotayo/kehindeogmotayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is where I document my full learning journey in cybersecurity — from the basics on Kali Linux to advanced penetration testing, automation, vulnerability research, and real-world security projects.
 
-Here are some ideas to get you started:
+I am learning step by step, practicing constantly, and building my skills in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 What This Repo Contains
+
+### **🔰 1. Beginner Level**
+Basic Linux commands  
+Working with files  
+Understanding directories  
+Learning how to navigate Kali Linux  
+Installing and using basic cybersecurity tools  
+My first scripts, notes, and practice exercises  
+
+---
+
+### **🛠 2. Intermediate Level**
+Network scanning  
+Nmap, Gobuster, Nikto  
+Basic web security  
+File permissions  
+Scripting (Bash & Python)  
+Capture-the-Flag (CTF) practice  
+
+---
+
+### **⚡ 3. Advanced Level**
+Vulnerability research  
+Exploit development  
+Metasploit modules  
+Automation tools  
+Red teaming basics  
+Bug bounty workflow  
+Full security projects  
+
+---
+
+## 📂 Folder Structure
+
+```
+/Beginner/
+    kali-basics.md
+    linux-commands.md
+    first-file.md
+
+/Intermediate/
+    nmap-scans.md
+    web-attacks.md
+    scripting-basics.md
+
+/Advanced/
+    exploit-dev/
+    automation-tools/
+    vuln-research/
+
+/Notes/
+    important-concepts.md
+```
+
+You can add more folders and files as you grow.
+
+---
+
+## 🧠 Why I'm Doing This
+
+- To track my progress  
+- To build a professional cybersecurity portfolio  
+- To help others learning the same path  
+- To practice consistently  
+- To show my skills publicly  
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.  
+You can use, modify, or share anything here — just give credit.
+
+---
+
+## ✨ Updates
+
+This repo will be updated regularly as I continue learning, practicing, and building more cybersecurity skills.
